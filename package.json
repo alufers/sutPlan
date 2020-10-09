@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "iconv-lite": "^0.6.2",
+    "node-fetch": "^2.6.1"
+  },
+  "name": "sutPlan",
+  "version": "1.0.0",
+  "description": "CLI planu Politechniki Śląskiej",
+  "main": "index.js",
+  "author": "ptrcnull",
+  "license": "MIT"
+}
